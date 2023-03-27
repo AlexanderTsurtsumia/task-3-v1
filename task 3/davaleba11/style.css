@@ -1,0 +1,124 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    height: 580px;
+    margin-top: -5%;
+}
+.div01 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.div1,.div2,.div3,p {
+    width: 380px;
+    margin-left: 3%;
+}
+.div2 {
+    background: #000000;
+    border-radius: 5px;
+    position: relative;
+    overflow: hidden;
+}
+
+p,h4 {
+    text-align: left;
+}
+.p1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    color: #4CD964;
+}
+h4 {
+    margin-left: 5%;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+    letter-spacing: -1px;
+    color: #1B1B1B;
+}
+p,span {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #9B9B9B;
+}
+.icon {
+    margin-top: 1.5%;
+    margin-left: 1.5%;
+    padding-right: 1.5%;
+}
+.share-icon {
+    margin-left: 50%;
+}
+span {
+    margin-top: -1.5%;
+}
+.p2 {
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+h2 {
+    padding-left: 5%;
+    font-family: 'Poppins' ;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 48px;
+    letter-spacing: -2px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.hr1 {
+    background: #EAEAEA;
+}
+.hr2 {
+    background: #FFFFFF;
+}
+.divbg2 {
+    margin-top: 1%;
+}
+.top-right,.div-02 {
+    height: 24px;
+    width: 100px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 15px;
+    padding-right: 20px;
+    margin-top: 13px;
+}
+.div-02 {
+    height: 96px;
+    width: 300px;
+    position: absolute;
+    top: 290px;
+    left: -18px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px
+}
+.p3 {
+    margin-top: 15%;
+}
+.hr2 {
+    margin-top: -2%;
+}
+p,hr {
+    margin-top: 1%;
+}
